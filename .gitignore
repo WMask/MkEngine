@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Other
+*suo
+*.vsidx
+*.lock
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.tlog
+*.txt
+*.idb
+*.pdb
+*.bin
+*.a
+.DS_Store
